@@ -1,3 +1,5 @@
+I HAVE UPLOADED TASK ON BRANCHES 
+AND ALSO ATTACHED SPECIFIC DOC FOLDER IN THAT 
 # Inventory-Management-System-for-B2B-SaaS
 Internship Task
 **Document: Low Stock Alert API for Inventory Management**
